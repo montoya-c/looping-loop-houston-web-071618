@@ -1,4 +1,6 @@
 def looping
+  loop do
+    put ""
 	#your code here
 end
 
